@@ -46,3 +46,6 @@ while True:
         break
 cv2.destroyAllWindows()
 ```
+
+
+[!PYPI package Link](https://pypi.org/project/fpstracker/1.0.0/)
